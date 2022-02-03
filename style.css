@@ -1,0 +1,43 @@
+body{
+    font-family: 'Stint Ultra Condensed';
+    background-image: url("Bg-Image.png");
+    font-size: 35px;
+
+}
+h3{
+    font-size: 35px !important;
+    border: 5px lightcoral solid;
+    margin-left: 600px;
+    margin-right: 600px;
+    
+}
+h2{
+    font-size: 50px !important;
+    font-weight: bold;
+    text-decoration: underline;
+    
+}
+button{
+    font-size: 30px !important;
+    background-color: lightcoral !important;
+    width: 10%;
+    border-top-left-radius: 15px !important;
+    border-bottom-left-radius: 0px !important;
+    border-bottom-right-radius: 15px !important;
+}
+.header_div{
+    background: white;
+    color: darkblue;
+}
+.copy_right_footer{
+    position:fixed;
+    color: darkblue;
+    bottom: 0;
+    width: 100%;
+    font-size: 30px !important;
+    background-color: whitesmoke;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+
